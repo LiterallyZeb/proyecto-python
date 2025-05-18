@@ -11,4 +11,4 @@ Este proyecto incluye dos programas:
 - Lógica básica en programación.
 
 ## Reflexión
-No han sido días faciles, pero esta bien estar mal a veces.
+No han sido días faciles, pero esta bien estar mal a veces, basta a veces con pedir un poco de ayuda o cambiar tu perspectiva de las cosas, no es sencillo pero se puede lograr.
