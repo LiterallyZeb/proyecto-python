@@ -2,8 +2,8 @@ palabra = input("Escribe una palabra: ")
 longitud = len(palabra)
 
 if 4 <= longitud <= 8:
-    print("La palabra es correcta.")
+    print("La palabra tiene la longitud adecuada.")
 elif longitud < 4:
-    print(f"Hacen falta letras. Solo tiene {longitud} letras.")
+    print(f"Faltan caracteres, por favor intenta de nuevo. {longitud} letras.")
 else:
-    print(f"Sobran letras. Tiene {longitud} letras.")
+    print(f"exceso de caracteres. {longitud} letras.")
